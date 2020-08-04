@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `${{ secrets.GHOST_URL }}`,
+    siteUrl: `https://cabinlab.io`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
