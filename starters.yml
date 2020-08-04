@@ -1,6 +1,6 @@
-- url: https://styxlab.github.io
-  repo: https://github.com/styxlab/gatsby-starter-try-ghost
-  description: A Gatsby starter for creating blogs from headless Ghost CMS.
+- url: https://cabinlab.io
+  repo: https://github.com/cabinlab/cabinlab-gatsby-ghost/
+  description: Building cabins in the woods to make things to build more cabins
   tags:
     - Blog
     - CMS:Headless
